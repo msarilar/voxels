@@ -1,22 +1,7 @@
 # voxels
 
-## folder structure
+créations diverses et variées...
 
-```
-.
-|   LICENSE
-|   README.md
-|
-\---your name
-    +---your project name
-    |   |   project.zip
-    |   |   visual.gif
-    |   |
-    |   \---project
-    |       |   animations.json
-    |       |   model.json
-    |       |   package.json
-    |       |
-    |       \---apps
-    |               SpriteStackAnimator.json
-```
+https://spritestack.io/
+
+![](https://raw.githubusercontent.com/msarilar/voxels/master/max/Spitfire/visual.gif)
